@@ -48,8 +48,11 @@ body {
   align-items: center;
 }
 h1,
-h3 {
+h2 {
   color: var(--DarkBlue);
+}
+h2 {
+  font-size: 16px;
 }
 p {
   font-size: 16px;
